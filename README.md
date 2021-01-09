@@ -4,3 +4,6 @@
     1. node 12.0 이상
     2. npm 6.0 이상
     3. expo: npm install -global expo-cli
+
+1. settings
+    expo init projectName > blank 
